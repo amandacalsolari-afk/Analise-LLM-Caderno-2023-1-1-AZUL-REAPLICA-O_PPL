@@ -1,0 +1,17 @@
+QUESTÃO 74
+
+É claramente impossível criar um mapa perfeito, no qual a escala principal seja preservada em todos os pontos. É fácil, porém, manter a escala principal ao longo de certas linhas ou pontos no mapa em que a escala seja constante e igual à escala principal, ocasionando uma distorção nula. Linhas de distorção nula são linhas em uma projeção em que a escala principal é preservada. São caracterizadas pela tangência ou secância da superfície terrestre com a superfície de projeção.
+
+MENEZES, P.; FERNANDES, M. **Roteiro de cartografia.** São Paulo: Oficina de Textos, 2013 (adaptado).
+
+Conforme o texto, a projeção que representará uma região próxima à Linha do Equador com a menor distorção da escala principal é:
+
+A) **[FIGURA: Projeção cilíndrica tangente à esfera terrestre, onde o cilindro envolve a Terra verticalmente tocando-a exatamente na Linha do Equador, representada por uma linha preta horizontal mais espessa no centro.]**
+
+B) **[FIGURA: Projeção cilíndrica secante à esfera terrestre, onde o cilindro intercepta o globo em dois paralelos simétricos acima e abaixo da Linha do Equador, destacados por linhas pretas horizontais.]**
+
+C) **[FIGURA: Projeção cônica tangente à esfera terrestre, onde o cone toca o globo em um paralelo específico localizado no hemisfério norte, destacado por uma linha preta horizontal mais espessa.]**
+
+D) **[FIGURA: Projeção cônica secante à esfera terrestre, onde o cone intercepta o globo em dois paralelos distintos, um no hemisfério norte e outro no hemisfério sul, destacados por linhas pretas horizontais.]**
+
+E) **[FIGURA: Projeção plana ou azimutal tangente à esfera terrestre, onde um plano horizontal toca o polo norte do globo, representado por um anel elíptico preto no topo.]**
